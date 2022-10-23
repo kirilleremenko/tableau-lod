@@ -1,3 +1,0 @@
-# tableau-lod
-
-materials coming soon...
